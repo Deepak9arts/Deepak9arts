@@ -9,6 +9,24 @@ I'm a curious and continuous learner with a deep interest in DSA and web develop
 - **LeetCode:** [Deepak_Kumar_Ram](https://leetcode.com/Deepak_Kumar_Ram) 🧠
 - **GeeksforGeeks:** [Deepak_Kumar_Ram](https://www.geeksforgeeks.org/user/one4ahxp7) 📚
 
+- ## Leetcode Info
+
+<p align="center">
+  <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" height="200" width="200" />
+    </a>
+  <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days 2025 Badge" height="200" width="200" />
+    </a>
+    <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="200" width="200" />
+    </a>
+  <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" height="200" width="200" />
+    </a>
+</p>
+
+
 ## 🛠️ Tech Stack
 - **Languages:** C/C++ 💻, Java ☕, Python 🐍, JavaScript 🌐
 - **Web Development:** React ⚛️, HTML 🖥️, CSS 🎨, Bootstrap 🚀, Node.js 🌟, Express.js 🏗️
