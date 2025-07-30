@@ -30,6 +30,9 @@ I'm a curious and continuous learner with a deep interest in DSA and web develop
    <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
         <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202506.gif" height="80" width="80" />
     </a>
+    <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
+        <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202507.gif" height="80" width="80" />
+    </a>
   <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
         <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" height="80" width="80" />
     </a>
