@@ -40,9 +40,7 @@ I'm a curious and continuous learner with a deep interest in DSA and web develop
         <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days 2025 Badge" height="80" width="80" />
     </a>
    
-  <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
-       align="center" src=https://assets.leetcode.com/static_assets/others/Knight.gif height="80" width="80" 
-   </a> 
+   
 
 </p>
 
