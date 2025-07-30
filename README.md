@@ -41,7 +41,7 @@ I'm a curious and continuous learner with a deep interest in DSA and web develop
     </a>
    
   <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
-       <img align="center" src=https://assets.leetcode.com/static_assets/others/Knight.gif height="80" width="80" />
+       <img align="center" src=https://assets.leetcode.com/static_assets/others/ height="80" width="80" />
    </a> 
 
 </p>
