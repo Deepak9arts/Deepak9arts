@@ -16,7 +16,7 @@ I'm a curious and continuous learner with a deep interest in DSA and web develop
         <img align="center" src="https://assets.leetcode.com/static_assets/others/25100.gif" height="200" width="200" />
     </a>
   <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
-        <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days 2025 Badge" height="200" width="200" />
+        <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="LeetCode 50 Days 2025 Badge" height="20" width="20" />
     </a>
     <a href="https://leetcode.com/u/Deepak_Kumar_Ram/" target="_blank">
         <img align="center" src="https://assets.leetcode.com/static_assets/marketing/202502.gif" height="200" width="200" />
